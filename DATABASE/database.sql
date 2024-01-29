@@ -47,3 +47,4 @@ WHERE messages.id_message IN (
     END
 )
 ORDER BY messages.id_message DESC;
+
